@@ -7,10 +7,10 @@
 # 用于判断是否为 bash 解释器
 if [[ 1 == 2 ]]; then
     # 保持对旧版本的兼容
-    bash rm "/tmp/iBiliPlayer-bili.apk?key=20230113"
+    bash rm "/tmp/iBiliPlayer-bili.apk"
 fi
-rm "/tmp/iBiliPlayer-bili.apk?key=20230113"
-download "https://dl.hdslb.com/mobile/latest/android64/iBiliPlayer-bili.apk?key=20230113" /tmp "iBiliPlayer-bili.apk?key=20230113"
-installapk "/tmp/iBiliPlayer-bili.apk?key=20230113"
+rm "/tmp/iBiliPlayer-bili.apk"
+download "https://dl.hdslb.com/mobile/latest/android64/iBiliPlayer-bili.apk" /tmp "iBiliPlayer-bili.apk"
+installapk "/tmp/iBiliPlayer-bili.apk"
 info 提示 安装完成！
-rm -rfv "/tmp/iBiliPlayer-bili.apk?key=20230113"
+rm -rfv "/tmp/iBiliPlayer-bili.apk"
