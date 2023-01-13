@@ -7,10 +7,10 @@
 # 用于判断是否为 bash 解释器
 if [[ 1 == 2 ]]; then
     # 保持对旧版本的兼容
-    bash rm "/tmp/tim_3.5.0.3148_537143920_64.apk"
+    bash rm "/tmp/weixin8032android2300_2.apk"
 fi
-rm "/tmp/tim_3.5.0.3148_537143920_64.apk"
-download "https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.5.0.3148_537143920_64.apk" /tmp "tim_3.5.0.3148_537143920_64.apk"
-installapk "/tmp/tim_3.5.0.3148_537143920_64.apk"
+rm "/tmp/weixin8032android2300_2.apk"
+download "https://dldir1.qq.com/weixin/android/weixin8032android2300_2.apk" /tmp "weixin8032android2300_2.apk"
+installapk "/tmp/weixin8032android2300_2.apk"
 info 提示 安装完成！
-rm -rfv "/tmp/tim_3.5.0.3148_537143920_64.apk"
+rm -rfv "/tmp/weixin8032android2300_2.apk"
