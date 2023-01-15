@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 2345手机助手",
+        "2345shoujizhushou.sh"
+    ],
+    [
         "安装 2345手机浏览器",
         "2345androidbrowser_pc_product.sh"
     ],
