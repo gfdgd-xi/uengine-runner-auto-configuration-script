@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 花生壳内网版APP 2.0",
+        "hskTunnel_2.0.sh"
+    ],
+    [
         "安装 花生壳管理APP 3.4.5",
         "peanuthull_3.4.5.sh"
     ],
