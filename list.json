@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 ToDesk企业版",
+        "ToDesk_B_Client.sh"
+    ],
+    [
         "安装 ToDesk个人版 4.6.1.1",
         "ToDesk_4.6.1.1.sh"
     ],
