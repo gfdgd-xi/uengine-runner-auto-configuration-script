@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 Limbo 6.0.1 ARM 版",
+        "limbo-android-arm-6.0.1-qemu-5.1.0.sh"
+    ],
+    [
         "安装 酷狗铃声 6.1.5",
         "b5503f9a78421c1407932d5a9ca6755e.sh"
     ],
