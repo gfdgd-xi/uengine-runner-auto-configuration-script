@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 百度网盘11.41.3",
+        "BaiduNetdisk_11.41.3.sh"
+    ],
+    [
         "安装 花生壳内网版APP 2.0",
         "hskTunnel_2.0.sh"
     ],
