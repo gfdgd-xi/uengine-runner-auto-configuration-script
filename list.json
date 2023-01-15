@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 迅雷直播",
+        "tdlive.sh"
+    ],
+    [
         "安装 迅雷",
         "xunlei_backup1050.sh"
     ],
