@@ -4,6 +4,14 @@
         "help.sh"
     ],
     [
+        "安装 向日葵控制端 13.1.1.52792",
+        "Sunlogin_Remote_13.1.1.52792.sh"
+    ],
+    [
+        "安装 白眼",
+        "app-release.sh"
+    ],
+    [
         "安装 Limbo 6.0.1 X86 版",
         "limbo-android-x86-6.0.1-qemu-5.1.0.sh"
     ],
