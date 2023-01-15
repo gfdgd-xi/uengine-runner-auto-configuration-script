@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 迅雷云盘TV版",
+        "tvxunlei-guanwang.sh"
+    ],
+    [
         "安装 迅雷直播",
         "tdlive.sh"
     ],
