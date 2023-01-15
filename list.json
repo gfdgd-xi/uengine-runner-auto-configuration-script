@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 Limbo 6.0.1 X86 版",
+        "limbo-android-x86-6.0.1-qemu-5.1.0.sh"
+    ],
+    [
         "安装 Limbo 6.0.1 ARM 版",
         "limbo-android-arm-6.0.1-qemu-5.1.0.sh"
     ],
