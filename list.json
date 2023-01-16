@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 AidLux 个人版",
+        "AidLux.sh"
+    ],
+    [
         "安装 Termux 0.118.0 universal",
         "termux-app_v0.118.0+github-debug_universal.sh"
     ],
