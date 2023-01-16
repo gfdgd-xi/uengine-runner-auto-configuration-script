@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 Firefox 108.2",
+        "Firefox-Android-108.2.sh"
+    ],
+    [
         "安装 AidLux 个人版",
         "AidLux.sh"
     ],
