@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 Termux 0.118.0 x86",
+        "termux-app_v0.118.0+github-debug_x86.sh"
+    ],
+    [
         "安装 一个木函7.14.0-normal",
         "com.One.WoodenLetter_7.14.0-normal_20221125.sh"
     ],
