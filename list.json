@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 海天鹰FTP Serve",
+        "FTPServe_Android.sh"
+    ],
+    [
         "安装 海天鹰HTTP Serve",
         "com.hty.httpserve.sh"
     ],
