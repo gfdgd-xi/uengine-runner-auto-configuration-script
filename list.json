@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 海天鹰照片地图",
+        "PhotoMap.sh"
+    ],
+    [
         "安装 海天鹰便签",
         "HTYNotes.sh"
     ],
