@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 海天鹰便签",
+        "HTYNotes.sh"
+    ],
+    [
         "安装 海天鹰浏览器",
         "HTYBrowser_Android.sh"
     ],
