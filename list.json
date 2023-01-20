@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 海天鹰录屏",
+        "ScreenRecord_Android.sh"
+    ],
+    [
         "安装 轨迹地图天地图版",
         "LocusMapTianditu.sh"
     ],
