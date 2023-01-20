@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 海天鹰HTTP Serve",
+        "com.hty.httpserve.sh"
+    ],
+    [
         "安装 海天鹰电量监控",
         "HTYBattery.sh"
     ],
