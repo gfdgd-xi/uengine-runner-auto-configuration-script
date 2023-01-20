@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 海天鹰微度天气",
+        "WeatherWD_Android.sh"
+    ],
+    [
         "安装 海天鹰录屏",
         "ScreenRecord_Android.sh"
     ],
