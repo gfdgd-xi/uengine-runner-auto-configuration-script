@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 海天鹰电量监控",
+        "HTYBattery.sh"
+    ],
+    [
         "安装 海天鹰轨迹地图UCMap版",
         "LocusMapUCMap.sh"
     ],
