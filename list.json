@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 海天鹰轨迹地图UCMap版",
+        "LocusMapUCMap.sh"
+    ],
+    [
         "安装 海天鹰照片地图",
         "PhotoMap.sh"
     ],
