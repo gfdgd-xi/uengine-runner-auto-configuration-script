@@ -1,0 +1,9 @@
+Visit: https://gitee.com/gfdgd-xi-org/uengine-runner/issues/I6CKHB
+<p>完成UEngine安装后重启系统，会持续通知UEngine服务异常关闭并自动重启，通知会持续循环，卸载运行器和UEngine并重启系统后通知仍持续刷出，且无法解决问题</p>
+<p>同时无法运行任何安卓应用和服务。</p>
+<p>请等待作者解决该问题，可以输入如下命令移除掉该组件：</p>
+<pre><code>
+sudo rm /usr/share/applications/uengine-loading-ubuntu.desktop
+sudo rm /etc/xdg/autostart/uengine-loading-ubuntu.desktop
+sudo rm /usr/bin/uengine-loading-ubuntu    
+</code></pre>

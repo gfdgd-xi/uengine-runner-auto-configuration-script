@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "移除通过 UEngine 运行器自带的安装器安装的 UEngine 及其辅助脚本",
+        "remove_uengine_ubuntu_loading.sh"
+    ],
+    [
         "安装 RacoonGX论坛手机版 APP",
         "web.racoongx.forum_1.0.0.sh"
     ],
