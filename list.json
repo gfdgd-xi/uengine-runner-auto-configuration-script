@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装 Google PinYin",
+        "Google-Pinyin.sh"
+    ],
+    [
         "移除通过 UEngine 运行器自带的安装器安装的 UEngine 及其辅助脚本",
         "remove_uengine_ubuntu_loading.sh"
     ],
