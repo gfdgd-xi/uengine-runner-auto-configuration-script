@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装最新版本 BiliBili",
+        "iBiliPlayer-bili.sh"
+    ],
+    [
         "安装 隐秘参数2.8.4",
         "隐秘参数2.8.4.sh"
     ],
