@@ -4,6 +4,10 @@
         "help.sh"
     ],
     [
+        "安装微信 8.0.40 64位",
+        "weixin8040android2420_arm64_1.sh"
+    ],
+    [
         "安装微信 8.0.40 32位",
         "weixin8040android2420_1.sh"
     ],
